@@ -1,0 +1,15 @@
+{
+  "name": "byakugan",
+  "version": "0.0.1",
+  "description": "调用 r-script 编译 bookdown 项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "r",
+    "bookdown"
+  ],
+  "author": "dantezy",
+  "license": "MIT"
+}
