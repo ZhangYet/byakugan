@@ -21,8 +21,5 @@
     "bookdown"
   ],
   "author": "dantezy",
-  "license": "MIT",
-  "dependencies": {
-    "r-script": "0.0.3"
-  }
+  "license": "MIT"
 }

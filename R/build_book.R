@@ -1,1 +1,1 @@
-rmarkdown::render_site(encoding = 'UTF-8')
+rmarkdown::render_site(input="/Users/zhangye/Repos/rgraphicscookbook", encoding = 'UTF-8')
