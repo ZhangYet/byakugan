@@ -1,5 +1,15 @@
 {
   "name": "byakugan",
+  "maintainers": [
+    {
+      "name": "dantezy",
+      "email": "zhangyet@gmail.com",
+      "url": "https://gitpress.io/@dantezy/"
+    }
+  ],
+  "bugs": {
+    "email": "zhangyet@gmail.com"
+  },
   "version": "0.0.1",
   "description": "调用 r-script 编译 bookdown 项目",
   "main": "index.js",
@@ -11,5 +21,8 @@
     "bookdown"
   ],
   "author": "dantezy",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "r-script": "0.0.3"
+  }
 }
